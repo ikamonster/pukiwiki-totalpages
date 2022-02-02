@@ -8,7 +8,9 @@
 
 ## インストール
 
-totalpages.inc.php を PukiWiki の plugin ディレクトリに配置してください。
+下記GitHubページからダウンロードした totalpages.inc.php を PukiWiki の plugin ディレクトリに配置してください。
+
+[https://github.com/ikamonster/pukiwiki-totalpages](https://github.com/ikamonster/pukiwiki-totalpages)
 
 ## 使い方
 
